@@ -1,8 +1,10 @@
 - Hi, I’m @vorajeem
-- I’m interested in ...
+<!--- 
+- I’m interested in 
+
+--->
 - I'm pretty new to software development using Git.
-- 🌱 I’m currently learning Bndtools/ Javascript(Vue.js)/Java
-- I’m looking to collaborate on the project which use these above technologies I'm currently learning.
+- 🌱 I’m currently learning Bndtools/ Javascript(Vue.js)/Java/C firmware coding
 - 📫 How to reach me: Drop me a message.
 
 <!---
